@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace H4_HW5
+namespace MyDictionary
 {
     class Program
     {
